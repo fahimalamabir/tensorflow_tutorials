@@ -1,0 +1,2 @@
+# tensorflow_tutorials
+In this repository, we'll be going over some of the main concepts in TensorFlow. We're looking at tensors, variables, and the current API hierarchy. We'll then have a deep dive into the tf.DataAPI and learn how to create input pipelines from models that train on data that's both in-memory and also data that lives in multiple files. Lastly, we'll learn how feature columns are used to manipulate and prepare data so that it can be used to train neural network models. 
